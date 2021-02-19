@@ -1,5 +1,5 @@
 
-## Project Description
+## Analyzing an Employee Database Using SQL
 
 Using 6 employee data CSV files from Hewlett Packard in the 1980s and 1990s, I will use my data engineering and data analysis skills to work with the acquired data in SQL. 
 
